@@ -1,0 +1,19 @@
+{
+  "name": "lottery",
+  "version": "1.0.0",
+  "description": "Solidity smart contract with basic frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Daniel Lehrner <daniel@lehrner.me>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "ganache-cli": "^6.0.3",
+    "mocha": "^5.0.0",
+    "solc": "^0.4.19",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.28"
+  }
+}
